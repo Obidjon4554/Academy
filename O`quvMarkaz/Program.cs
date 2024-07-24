@@ -8,7 +8,6 @@ public static class Program
         var service = new Center();
         bool exit = false;
 
-        Console.WriteLine("Welcome to PDP ACADEMY!");
         while (!exit)
         {
             Console.WriteLine("1. Admin");
